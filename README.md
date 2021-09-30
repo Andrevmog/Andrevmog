@@ -23,6 +23,5 @@
  
   ![Snake animation](https://github.com/Andrevmog/Andrevmog/blob/output/github-contribution-grid-snake.svg)
   
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
  
 </div>
