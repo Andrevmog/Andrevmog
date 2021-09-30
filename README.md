@@ -22,5 +22,7 @@
   <a href="https://www.linkedin.com/in/andr%C3%A9-machado-57365017b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Andrevmog/Andrevmog/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
  
 </div>
